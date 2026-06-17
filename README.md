@@ -13,7 +13,7 @@ I am a recent Statistics graduate from Thammasat University with a minor in Fina
 
 ### Featured Data & Risk Projects
 
-#### 1. [PTT Stock Price Forecasting Model & Evaluation]
+#### 1. [PTT Stock Price Forecasting Model & Evaluation](https://github.com/tatpk/PTT-Stock-Price-Forecasting)
 * **Tools:** SPSS
 * **Description:** Developed comprehensive time-series forecasting models to predict stock price movements and evaluate market volatility. Engineered and compared 6 advanced statistical approaches (including ARIMA, ARIMAX, and Hybrid optimized models) to maximize predictive accuracy and minimize residual errors.
 
