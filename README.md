@@ -1,9 +1,9 @@
 # Hi there, I'm Tatchaya Puangkaew! 👋
 **Data Analyst | Credit Risk Analyst**
 
-I am a recent Statistics graduate from Thammasat University with a minor in Financial Mathematics and Investment. I am passionate about turning numbers and complex data into clear, actionable business strategies. During my studies, I enjoyed working on real-world challenges, such as building a predictive model for PTT stock prices and pitching a startup idea as a Top 10 Finalist in the "KIRI" Entrepreneurship Initiative. I am comfortable working with tools like SQL, R, and SPSS to uncover insights and solve problems. Currently, I am looking for opportunities as a Data, Business, or Financial Analyst. I am eager to bring my analytical skills to a team and help drive smart, data-informed decisions. 🏦
+I am a recent Statistics graduate from Thammasat University with a minor in Financial Mathematics and Investment. I am passionate about turning numbers and complex data into clear, actionable business strategies. During my studies, I enjoyed working on real-world challenges, such as building a predictive model for PTT stock prices and pitching a startup idea as a Top 10 Finalist in the "KIRI" Entrepreneurship Initiative. I am comfortable working with tools like SQL, R, and SPSS to uncover insights and solve problems. Currently, I am looking for opportunities as a Data, Business, or Financial Analyst. I am eager to bring my analytical skills to a team and help drive smart, data-informed decisions.
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 * **Programming & Databases:** Python (Pandas, Selenium, Scikit-learn), R (ggplot2), SQL
 * **Statistical Tools:** SPSS
 * **Data Visualization:** Power BI, Advanced Excel
@@ -11,7 +11,7 @@ I am a recent Statistics graduate from Thammasat University with a minor in Fina
 
 ---
 
-### 🚀 Featured Data & Risk Projects
+### Featured Data & Risk Projects
 
 #### 1. [PTT Stock Price Forecasting Model & Evaluation]
 * **Tools:** SPSS
@@ -27,7 +27,7 @@ I am a recent Statistics graduate from Thammasat University with a minor in Fina
 
 ---
 
-### 💼 Professional Experience Highlights (National Statistical Office - NSO)
+### Professional Experience Highlights (National Statistical Office - NSO)
 
 #### 1. Nationwide Census Data Cleansing
 * **Tools:** SPSS
@@ -41,6 +41,6 @@ I am a recent Statistics graduate from Thammasat University with a minor in Fina
 
 ---
 
-### 📫 Let's Connect!
+### 💌 Let's Connect!
 * **LinkedIn:** [tatchaya-puangkaew](https://linkedin.com/in/tatchaya-puangkaew-70a680298)
 * **Email:** tatchaya47.pk@gmail.com
