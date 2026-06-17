@@ -21,7 +21,7 @@ I am a recent Statistics graduate from Thammasat University with a minor in Fina
 * **Tools:** Python, Pandas, Matplotlib, Seaborn
 * **Description:** Conducted Exploratory Data Analysis (EDA) to identify high-risk customer segments. Analyzed key metrics like Cash Advance behaviors and Credit Utilization ratios to assess financial liquidity risks and provided actionable business recommendations.
 
-#### 3. [Home Credit Default Risk Data Preparation [Ongoing]]
+#### 3. [Home Credit Default Risk Data Preparation] [Ongoing]
 * **Tools:** SQL
 * **Description:** Currently building a robust data foundation for default prediction modeling. Preparing large-scale relational datasets utilizing complex SQL queries (JOINs, CTEs, Aggregations) to perform feature engineering and data cleansing across multiple database tables.
 
