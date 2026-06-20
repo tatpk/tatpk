@@ -17,7 +17,7 @@ I am a recent Statistics graduate from Thammasat University with a minor in Fina
 * **Tools:** SPSS
 * **Description:** Developed comprehensive time-series forecasting models to predict stock price movements and evaluate market volatility. Engineered and compared 6 advanced statistical approaches (including ARIMA, ARIMAX, and Hybrid optimized models) to maximize predictive accuracy and minimize residual errors.
 
-#### 2. [Credit Card Portfolio Risk Analysis & Customer Behavior Profiling](https://colab.research.google.com/drive/1qEl7p9VCyVnbJAIhVOWrpNRfTaXOrfJP?usp=drive_link)
+#### 2. [Credit Card Portfolio Risk Analysis & Customer Behavior Profiling]([https://colab.research.google.com/drive/1qEl7p9VCyVnbJAIhVOWrpNRfTaXOrfJP?usp=drive_link](https://colab.research.google.com/drive/1qEl7p9VCyVnbJAIhVOWrpNRfTaXOrfJP?usp=sharing))
 * **Tools:** Python, Pandas, Matplotlib, Seaborn
 * **Description:** Conducted Exploratory Data Analysis (EDA) to identify high-risk customer segments. Analyzed key metrics like Cash Advance behaviors and Credit Utilization ratios to assess financial liquidity risks and provided actionable business recommendations.
 
