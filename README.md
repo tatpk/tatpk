@@ -1,13 +1,14 @@
 # Hi there, I'm Tatchaya Puangkaew! 👋
 **Data Analyst | Credit Risk Analyst**
 
-I am a recent Statistics graduate from Thammasat University with a minor in Financial Mathematics and Investment. I am passionate about turning numbers and complex data into clear, actionable business strategies. During my studies, I enjoyed working on real-world challenges, such as building a predictive model for PTT stock prices and pitching a startup idea as a Top 10 Finalist in the "KIRI" Entrepreneurship Initiative. I am comfortable working with tools like SQL, R, and SPSS to uncover insights and solve problems. Currently, I am looking for opportunities as a Data, Business, or Financial Analyst. I am eager to bring my analytical skills to a team and help drive smart, data-informed decisions.
+A recent Statistics graduate from Thammasat University with a minor in Financial Mathematics and Investment, passionate about translating complex datasets into actionable business strategies. Experienced in end-to-end analytics, from building predictive models for stock prices to applying machine learning (K-Means clustering) for customer risk segmentation. Recognized as a Top 10 Finalist in the 'KIRI' Entrepreneurship Initiative, demonstrating a strong blend of technical proficiency (Python, SQL, R) and business acumen. Seeking opportunities as a Data, Business, or Financial Analyst to drive smart, data-informed decisions and business growth.
 
-### Tech Stack & Tools
-* **Programming & Databases:** Python (Pandas, Selenium, Scikit-learn), R (ggplot2), SQL
-* **Statistical Tools:** SPSS
-* **Data Visualization:** Power BI, Advanced Excel
-* **Domain Expertise:** Credit Risk Modeling, Financial Mathematics, Market Research
+### Core Competencies & Tech Stack
+* **Programming & Databases:** Python (Pandas, NumPy, Scikit-learn, Selenium), SQL, R
+* **Machine Learning & Statistics:** Predictive Modeling, K-Means Clustering, Time-Series Forecasting, SPSS
+* **Data Visualization:** Power BI, Advanced Excel, Matplotlib, Seaborn
+* **Domain Expertise:** Credit Risk Analytics, Customer Segmentation, Financial Mathematics, Market Research
+
 
 ---
 
