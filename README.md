@@ -22,7 +22,7 @@ A recent Statistics graduate from Thammasat University with a minor in Financial
 * **Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 * **Description:** Performed end-to-end customer analytics on a credit card portfolio, including data cleaning, exploratory analysis, risk profiling, and customer segmentation. Engineered credit utilization and payment behavior metrics and applied K-Means clustering to identify four distinct customer segments, generating actionable strategies for credit risk management and customer value optimization.
 
-#### 3. [Home Credit Default Risk Data Preparation] [Ongoing]
+#### 3. [Credit Risk Analytics Pipeline] [Ongoing]
 * **Tools:** SQL
 * **Description:** Currently building a robust data foundation for default prediction modeling. Preparing large-scale relational datasets utilizing complex SQL queries (JOINs, CTEs, Aggregations) to perform feature engineering and data cleansing across multiple database tables.
 
